@@ -1,0 +1,45 @@
+Instructions to Reproduce Results
+
+Step 1: Clone the Repository
+
+Clone the repository to your local machine using the following command:
+
+git clone https://github.com/yutao-data/Pytorch-Airbnb-Price.git
+cd Pytorch-Airbnb-Price
+
+Step 2: Install Dependencies
+
+Make sure you have Python 3.10 and the following libraries installed:
+
+- NumPy 1.26.4
+- Pandas 2.2.1
+- PyTorch 2.1.2+cpu
+- Scikit-learn 0.24.2
+- Matplotlib 3.3.4
+- Jupyter Notebook
+
+You can install the necessary packages using pip:
+
+pip install numpy pandas torch scikit-learn matplotlib jupyter
+
+Step 3: Run Jupyter Notebook
+
+Open Jupyter Notebook using the following command:
+
+jupyter notebook
+
+Step 4: Execute Notebooks
+
+1. Open create-dataset-ml-upc.ipynb and run all cells. This notebook will handle data preprocessing, clustering, and visualization.
+2. Open PyTorch-LinearRegression-RandomForest-SVR-MLP.ipynb and run all cells. This notebook implements and trains the machine learning models, performs cross-validation, and evaluates the models.
+
+Step 5: View Results
+
+The results, including model performance metrics and comparisons, are summarized in the LaTeX document included in the repository.
+
+Links to Code
+
+- GitHub: Pytorch-Airbnb-Price
+- Kaggle: PyTorch-LinearRegression-RandomForest-SVR-MLP
+
+For any issues or questions, please contact Yutao Chen (yutao.chen@estudiantat.upc.edu) or Min Zhang (min.zhang@estudiantat.upc.edu).
