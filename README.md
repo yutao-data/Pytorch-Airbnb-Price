@@ -32,6 +32,9 @@ Pytorch-Airbnb-Price/
 ```
 Random Forest Best Model is too large to upload but it's available at: [Random Forest Best Model](https://www.kaggle.com/models/muchabean/airbnb-price-models-final/TensorFlow2/airbnb/1).
 
+## Data Source
+[Airbnb Price Determinants in Europe](https://www.kaggle.com/datasets/thedevastator/airbnb-price-determinants-in-europe)
+
 ## Getting Started
 
 ### Prerequisites
